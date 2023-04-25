@@ -5,10 +5,10 @@
 - 🔭 Things I'm loving: Watching the aurora 😍
 - 🌱 I'm currently learning: Next.js for my project 
 - ✨ Skills in React, React-Redux and TypeScript
+- 📫 Reach me at thestarshine@protonmail.com
 
 
 
-https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white
 
 <!--
 **estrella-mooney/estrella-mooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
