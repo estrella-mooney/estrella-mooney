@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Estrella :)
+### Hey 👋 I'm Estrella :)
 
 - 🧚🏼 Full Stack Developer - grad from Dev Academy Aotearoa 
 - 🥾 Lover of the outdoors 
