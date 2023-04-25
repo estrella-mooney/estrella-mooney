@@ -1,5 +1,10 @@
-### Hi there 👋 I'm Estrella 
-- Full Stack Developer from Dev Academy Aotearoa 
+### Hi there 👋 I'm Estrella :)
+
+- 🧚🏼 Full Stack Developer - grad from Dev Academy Aotearoa 
+- ♡ Projects I'm working on: Next.js full-stack & a personal portfolio
+- 🔭 Things I'm loving: Watching the aurora 😍
+- 🌱 I'm currently learning: Next.js for my project 
+- ✨ Skills in React, React-Redux and TypeScript
 
 <!--
 **estrella-mooney/estrella-mooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
