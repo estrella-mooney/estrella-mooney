@@ -1,17 +1,15 @@
 ### Hey 👋 I'm Estrella :)
 
-- 🧚🏼 Software Developer
+- 🧚🏼 Young passionate Software Developer
 - 🥾 Lover of the outdoors 
-- ♡ Projects I'm working on: Next.js full-stack & a personal portfolio
+- ♡ Projects I'm working on: Next.js full-stack & python planet simulation 
 - 🔭 Things I'm loving: Watching the aurora 😍
-- 🌱 I'm currently learning: Next.js for my project 
+<!-- - 🌱 I'm currently learning: Next.js for my project  -->
 - ✨ Skills in React, React-Redux and TypeScript
 - 📫 Reach me at thestarshine@protonmail.com
 
 
-## Some of my projects
-Group Projects
-Buddy 
+
 
 
 
